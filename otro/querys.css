@@ -1,0 +1,548 @@
+
+@media only screen and (max-width: 320px) {
+    /* MAIN HEADER AND MAIN */
+    /* Hide elements on header except logo and burger menu */
+    .log-in,
+    .sign-up,
+    .esp,
+    .eng,
+    .line-icon,
+    .seccion-web-realestate-child1 {
+      display: none;
+    }
+  
+    /* Show only logo and burger menu on header */
+    .logo-icon {
+      display: block;
+    }
+  
+    .group-icon {
+      display: block;
+      left: 300px;
+    }
+  
+    /* Line div remains as a divider */
+    .line-div {
+      display: block;
+      width: 100%;
+      left: 0;
+    }
+  
+    /* Stack elements vertically in a single column */
+    .seccion-web-realestate-child4,
+    .ex-villa-budapest,
+    .luxury,
+    .real-estate,
+    .seccion-web-realestate-child2,
+    .view-all-properties,
+    .seccion-web-realestate-child3 {
+      display: block;
+      width: 100%;
+      margin-top: 10px;
+    }
+  
+    /* Adjust positioning of some elements */
+    .seccion-web-realestate-child4,.ex-villa-budapest {
+      text-align: center;
+    }
+  
+    .luxury {
+      margin-top: 20px;
+      text-align: center;
+    }
+  
+    .real-estate {
+      margin-top: 10px;
+      font-size: 18px;
+      text-align: center;
+    }
+  
+    .seccion-web-realestate-child2 {
+      width: 50%;
+      margin: 20px auto;
+    }
+  
+    .view-all-properties {
+      text-align: center;
+      width: 80%;
+      margin: 0 auto;
+      font-size: 16px;
+    }
+  }
+
+  /* IMAGE CARROUSEL 1  */
+  @media only screen and (max-width: 320px) {
+    /* Show titles */
+    .properties-for-sale {
+      display: block;
+      text-align: center;
+      font-size: var(--font-size-5xl);
+      margin-top: 10px;
+    }
+  
+    .worldwide-gallery1 {
+      display: block;
+      color: var(--color-goldenrod);
+      text-align: center;
+      margin-top: 5px;
+    }
+  
+    /* Show view all button */
+    .view-all-properties2 {
+      display: block;
+      margin: 10px auto;
+      width: 80%;
+    }
+  
+    /* Hide prev/next buttons */
+    .next1,
+    .prev1 {
+      display: none;
+    }
+  
+    /* Show images next to each other */
+    .mask-group-icon9,
+    .mask-group-icon10,
+    .mask-group-icon13 {
+      display: inline-block;
+      width: 45%;
+      margin: 0 5%;
+      object-fit: cover;
+    }
+  
+    /* Adjust text elements */
+    .france1,
+    .marseilles,
+    .glasgow,
+    .england {
+      font-size: var(--font-size-md);
+      line-height: 1.5;
+    }
+  
+    /* Center titles and buttons */
+    .properties-for-sale,
+    .worldwide-gallery1,
+    .view-all-properties2 {
+      text-align: center;
+    }
+  
+    /* Adjust width and position of England text */
+    .england {
+      width: 100%;
+      text-align: center;
+    }
+  
+    /* Make images full width and responsive */
+    .mask-group-icon9,
+    .mask-group-icon10,
+    .mask-group-icon13 {
+      width: 100%;
+      height: auto;
+    }
+  
+    /* IMAGE CARROUSEL 2 */
+
+
+        /* Show titles */
+        .properties-for-rent {
+          display: block;
+          text-align: center;
+          font-size: var(--font-size-5xl);
+          margin-top: 10px;
+        }
+      
+        .worldwide-gallery {
+          display: block;
+          color: var(--color-goldenrod);
+          text-align: center;
+          margin-top: 5px;
+        }
+      
+        /* Show view all button */
+        .view-all-properties1 {
+          display: block;
+          margin: 10px auto;
+          width: 80%;
+        }
+      
+        /* Hide prev/next buttons */
+        .next,
+        .prev {
+          display: none;
+        }
+      
+        /* Show images next to each other */
+        .mask-group-icon11,
+        .mask-group-icon12,
+        .mask-group-icon14 {
+          display: inline-block;
+          width: 45%;
+          margin: 0 5%;
+          object-fit: cover;
+        }
+      
+        /* Adjust text elements */
+        .carcassonne,
+        .france,
+        .clo,
+        .fran,
+        .munich,
+        .germany {
+          font-size: var(--font-size-md);
+          line-height: 1.5;
+        }
+      
+        /* Center titles and buttons */
+        .properties-for-rent,
+        .worldwide-gallery,
+        .view-all-properties1 {
+          text-align: center;
+        }
+      
+        /* Adjust text cards and text */
+        .carcassonne,
+        .france {
+          margin: 5px auto;
+        }
+      
+        .clo,
+        .fran {
+          margin-left: auto;
+          margin-top: 5px;
+        }
+      
+        .munich,
+        .germany {
+          margin-left: auto;
+        }
+      
+        /* Make images full width and responsive */
+        .mask-group-icon11,
+        .mask-group-icon12,
+        .mask-group-icon14 {
+          width: 100%;
+          height: auto;
+        }
+      
+
+      /* IMAGE GALLERY SECTION */
+        /* Title and subtitle */
+        .developments {
+          width: 100%;
+          text-align: center;
+          top: 10px;
+        }
+      
+        .luxury-properties {
+          width: 100%;
+          text-align: center;
+          margin-top: 5px;
+          color: var(--color-goldenrod);
+        }
+      
+        /* Hide desktop layout elements */
+        .mask-group-icon {
+          display: none;
+        }
+      
+        .mask-group-icon1 {
+          display: none;
+        }
+      
+        .mask-group-icon2 {
+          display: none;
+        }
+      
+        .mask-group-icon3 {
+          display: none;
+        }
+      
+        .mask-group-icon4 {
+          display: none;
+        }
+      
+        .seccion-web-realestate-child {
+          display: none;
+        }
+      
+        .seccion-web-realestate-item {
+          display: none;
+        }
+      
+        .nassau-the-bahamas {
+          display: none;
+        }
+      
+        .rosewood-baha {
+          display: none;
+        }
+      
+        .vero-beach {
+          display: none;
+        }
+      
+        .indigo {
+          display: none;
+        }
+      
+        .surfside {
+          display: none;
+        }
+      
+        .the-surf-row {
+          display: none;
+        }
+      
+        .st-kitts-and {
+          display: none;
+        }
+      
+        .solterre-at-cockleshell {
+          display: none;
+        }
+      
+        .brickell-miami1 {
+          display: none;
+        }
+      
+        .st-regis-1 {
+          display: none;
+        }
+      
+        .coral-gables {
+          display: none;
+        }
+      
+        .giralda-place {
+          display: none;
+        }
+      
+        /* Show mobile layout elements */
+        .mask-group-icon5 {
+          display: block;
+          width: 100%;
+          height: auto;
+          margin-top: 10px;
+        }
+      
+        .seccion-web-realestate-child28 {
+          display: block;
+          top: 5px;
+        }
+      
+        .surfside {
+          display: block;
+          margin-top: 5px;
+        }
+      
+        .the-surf-row {
+          display: block;
+        }
+      
+        .mask-group-icon7 {
+          display: block;
+          width: 100%;
+          height: auto;
+          margin-top: 20px;
+        }
+      
+        .seccion-web-realestate-child27 {
+          display: block;
+          top: 5px;
+        }
+      
+        .vero-beach {
+          display: block;
+          margin-top: 5px;
+        }
+      
+        .indigo {
+          display: block;
+        }
+      
+        .mask-group-icon6 {
+          display: block;
+          width: 100%;
+          height: auto;
+          margin-top: 20px;
+        }
+      
+        .seccion-web-realestate-child26 {
+          display: block;
+          top: 5px;
+        }
+      
+        .nassau-the-bahamas {
+          display: block;
+          margin-top: 5px;
+        }
+      
+        .rosewood-baha {
+          display: block;
+        }
+      
+      
+      /* SERVICES */
+        /* Move divider line on top */
+        .seccion-web-realestate-child21 {
+          top: 0;
+          transform: none;
+          width: 100%;
+          height: auto;
+        }
+      
+        /* Stack titles on top of each other */
+        .art-curation-container {
+          top: 10px;
+          justify-content: center;
+          width: 100%;
+          text-align: center;
+        }
+      
+        /* Show services title below art curation */
+        .services {
+          top: 45px;
+          width: 100%;
+          text-align: center;
+        }
+      
+        /* Show "in-an-ultimate" text below titles */
+        .in-an-ultimate2 {
+          top: 80px;
+          width: 100%;
+          margin: 0 auto;
+        }
+      
+        /* Show contact us button below text */
+        .contact-us1 {
+          top: 130px;
+          left: 0;
+          width: 100%;
+          justify-content: center;
+        }
+      
+        /* Hide next and prev buttons in mobile view */
+        .next2, .prev2 {
+          display: none;
+        }
+      
+        /* Stack image and black box below text and buttons */
+        .seccion-web-realestate-child19,
+        .seccion-web-realestate-child20 {
+          top: 160px;
+          width: 100%;
+        }
+      
+        /* Apply responsive image adjustments */
+        .seccion-web-realestate-child20 {
+          height: auto;
+        }
+      
+      
+    /* CONTACT BOX */
+
+        /* Modify gray background width */
+        .seccion-web-realestate-child14 {
+          width: 100%;
+          height: auto;
+        }
+      
+        /* Show "Join the list" on top */
+        .join-the-list {
+          top: 10px;
+          width: 100%;
+          text-align: center;
+        }
+      
+        /* Stack CTA title */
+        .unlock-the-exclusive-container {
+          top: 35px;
+          width: 100%;
+          justify-content: center;
+        }
+      
+        /* Show "unlockc" and "unlocko" on separate lines */
+        #unlockc,
+        #unlocko {
+          font-size: var(--font-size-11xl);
+          line-height: 45px;
+          text-align: center;
+        }
+      
+        #unlocko {
+          margin-top: 10px;
+        }
+      
+        /* Stack input section elements */
+        .seccion-web-realestate-child25,
+        .submit,
+        .seccion-web-realestate-child29,
+        .ex-namemailcom,
+        .name {
+          top: 80px;
+          width: 100%;
+          margin: 10px 0;
+        }
+      
+        /* Adjust submit button */
+        .submit {
+          justify-content: center;
+        }
+      
+        /* Hide input box border for mobile */
+        .seccion-web-realestate-child25,
+        .seccion-web-realestate-child29 {
+          border: none;
+          box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+      
+
+      /* FOOTER */
+        /* Stack elements on top of each other */
+        .seccion-web-realestate-child13 {
+          width: 100%;
+          height: auto;
+        }
+      
+        /* Logo at top */
+        .logo-icon1 {
+          top: 10px;
+          width: auto;
+          max-width: 100%;
+          margin: 0 auto;
+        }
+      
+        /* Stack "Become a new" container */
+        .become-a-new-container {
+          top: 40px;
+          width: 100%;
+          text-align: center;
+        }
+      
+        /* Create two columns for footer links */
+        .suites-cities-villas-container,
+        .houses-apartaments-contact-container {
+          display: flex;
+          justify-content: space-around;
+          width: 100%;
+          margin: 20px 0;
+        }
+      
+        /* Single column for remaining elements */
+        .call-center,
+        .div,
+        .conciergeuniqluxurycom,
+        .seccion-web-realestate-child15,
+        .copyright-2022 {
+          display: block;
+          width: 100%;
+          margin: 10px 0;
+        }
+      
+        /* Center call center and copyright */
+        .call-center,
+        .copyright-2022 {
+          text-align: center;
+        }
+      }
+      
