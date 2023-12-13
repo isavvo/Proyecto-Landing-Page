@@ -1,0 +1,856 @@
+.seccion-mobile-realestate-hom-child {
+  position: absolute;
+  top: 5940.5px;
+  left: 0;
+  background-color: var(--color-black);
+  width: 428px;
+  height: 875px;
+}
+.seccion-mobile-realestate-hom-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 428px;
+  height: 926px;
+  object-fit: cover;
+}
+.seccion-mobile-realestate-hom-inner {
+  position: absolute;
+  top: 84.4px;
+  left: -2.6px;
+  border-top: 1.3px solid rgba(255, 255, 255, 0.5);
+  box-sizing: border-box;
+  width: 431.3px;
+  height: 1.3px;
+}
+.ex-villa-budapest {
+  position: absolute;
+  top: 158px;
+  left: 57px;
+  font-size: var(--font-size-xl);
+  line-height: 45px;
+  font-family: var(--font-brandon-grotesque);
+  color: var(--color-silver);
+  display: flex;
+  align-items: center;
+  width: 219px;
+  height: 19px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 196px;
+  left: 24px;
+  border-radius: var(--br-81xl);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 60px;
+  height: 380px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.group-icon {
+  position: absolute;
+  height: 0.32%;
+  width: 5.14%;
+  top: 2.3%;
+  right: 14.02%;
+  bottom: 97.37%;
+  left: 80.84%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.real-estate,
+.seccion-mobile-realestate-hom-child1 {
+  position: absolute;
+  top: 36.5px;
+  left: 367px;
+  width: 37.5px;
+  height: 28px;
+}
+.real-estate {
+  top: 653px;
+  left: 24px;
+  font-size: 60px;
+  line-height: 45px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 380px;
+  height: 63px;
+}
+.view-all-properties,
+.view-all-properties1,
+.view-all-properties2 {
+  position: absolute;
+  top: 769px;
+  left: 144px;
+  font-size: var(--font-size-6xl);
+  line-height: 45px;
+  font-family: var(--font-brandon-grotesque);
+  display: flex;
+  align-items: center;
+  width: 190px;
+  height: 32px;
+}
+.view-all-properties1,
+.view-all-properties2 {
+  top: 1374px;
+  left: 74px;
+  color: var(--color-goldenrod);
+}
+.view-all-properties2 {
+  top: 2305px;
+}
+.seccion-mobile-realestate-hom-child2 {
+  position: absolute;
+  height: 0.32%;
+  width: 7.59%;
+  top: 20.23%;
+  right: 87.03%;
+  bottom: 79.45%;
+  left: 5.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.seccion-mobile-realestate-hom-child3 {
+  position: absolute;
+  top: 820px;
+  left: 24px;
+  border-radius: var(--br-81xl);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 70px;
+  height: 380px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.seccion-mobile-realestate-hom-child4,
+.seccion-mobile-realestate-hom-child5 {
+  position: absolute;
+  height: 0.32%;
+  width: 7.59%;
+  top: 33.89%;
+  right: 87.03%;
+  bottom: 65.79%;
+  left: 5.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.seccion-mobile-realestate-hom-child5 {
+  top: 11.36%;
+  right: 70.68%;
+  bottom: 88.32%;
+  left: 21.73%;
+}
+.luxury,
+.mask-group-icon {
+  position: absolute;
+  left: 24px;
+}
+.luxury {
+  top: 603px;
+  font-size: var(--font-size-21xl);
+  line-height: 45px;
+  color: var(--color-silver);
+  display: flex;
+  align-items: center;
+  width: 380px;
+  height: 41px;
+}
+.mask-group-icon {
+  top: 1451px;
+  width: 280px;
+  height: 405px;
+  object-fit: cover;
+}
+.properties-for-sale {
+  top: 1047px;
+  font-size: var(--font-size-26xl);
+  line-height: 60px;
+  font-weight: 500;
+  color: var(--color-black);
+  height: 57px;
+}
+.developments,
+.properties-for-sale,
+.worldwide-gallery {
+  position: absolute;
+  left: 24px;
+  display: flex;
+  align-items: center;
+  width: 380px;
+}
+.developments {
+  top: 2909px;
+  font-size: var(--font-size-26xl);
+  line-height: 60px;
+  font-weight: 500;
+  color: var(--color-black);
+  height: 57px;
+}
+.worldwide-gallery {
+  top: 1001px;
+  line-height: 45px;
+  color: var(--color-goldenrod);
+  height: 47px;
+}
+.in-an-ultimate {
+  letter-spacing: -0.03em;
+}
+.in-an-ultimate-container {
+  position: absolute;
+  top: 1128px;
+  left: 24px;
+  line-height: 40px;
+  font-weight: 300;
+  font-family: var(--font-brandon-grotesque);
+  color: var(--color-black);
+  display: inline-block;
+  width: 380px;
+  height: 201px;
+}
+.luxury-properties {
+  position: absolute;
+  top: 2863px;
+  left: 24px;
+  line-height: 45px;
+  color: var(--color-goldenrod);
+  display: flex;
+  align-items: center;
+  width: 380px;
+  height: 47px;
+}
+.mask-group-icon1 {
+  position: absolute;
+  top: 1451px;
+  left: 324px;
+  width: 104px;
+  height: 405px;
+  object-fit: cover;
+}
+.seccion-mobile-realestate-hom-child6,
+.seccion-mobile-realestate-hom-child7 {
+  position: absolute;
+  top: 870px;
+  left: 151px;
+  background-color: var(--color-silver);
+  width: 31.3px;
+  height: 5px;
+}
+.seccion-mobile-realestate-hom-child7 {
+  left: 245px;
+}
+.mask-group-icon2 {
+  position: absolute;
+  top: 2383px;
+  left: 24px;
+  width: 280px;
+  height: 405px;
+  object-fit: cover;
+}
+.in-an-ultimate-container1,
+.properties-for-rent {
+  position: absolute;
+  left: 24px;
+  color: var(--color-black);
+  width: 380px;
+}
+.properties-for-rent {
+  top: 1978px;
+  font-size: var(--font-size-26xl);
+  letter-spacing: -0.01em;
+  line-height: 60px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  height: 57px;
+}
+.in-an-ultimate-container1 {
+  top: 2060px;
+  line-height: 40px;
+  font-weight: 300;
+  font-family: var(--font-brandon-grotesque);
+  display: inline-block;
+  height: 201px;
+}
+.worldwide-gallery1 {
+  position: absolute;
+  top: 1931px;
+  left: 24px;
+  line-height: 45px;
+  color: var(--color-goldenrod);
+  display: flex;
+  align-items: center;
+  width: 380px;
+  height: 47px;
+}
+.mask-group-icon3 {
+  position: absolute;
+  top: 2383px;
+  left: 324px;
+  width: 104px;
+  height: 405px;
+  object-fit: cover;
+}
+.seccion-mobile-realestate-hom-child8 {
+  position: absolute;
+  top: 870px;
+  left: 198px;
+  background-color: var(--color-gainsboro);
+  width: 31.3px;
+  height: 5px;
+}
+.ellipse-div {
+  position: absolute;
+  top: 30px;
+  left: 24px;
+  border-radius: 50%;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 40px;
+  height: 40px;
+}
+.exclude-icon {
+  position: relative;
+  width: 33.1px;
+  height: 33.1px;
+}
+.mask-group-icon4,
+.mask-group-icon5 {
+  position: absolute;
+  top: 3000px;
+  left: 0;
+  width: 428px;
+  height: 428px;
+  object-fit: cover;
+}
+.mask-group-icon5 {
+  top: 3444px;
+}
+.seccion-mobile-realestate-hom-child9 {
+  position: absolute;
+  top: 3872px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 145px;
+  height: 428px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.glasgow {
+  position: absolute;
+  top: 2710px;
+  left: 71px;
+  font-size: var(--font-size-21xl);
+  line-height: 45px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  width: 183px;
+  height: 43px;
+}
+.england {
+  top: 2663px;
+  left: 69px;
+  width: 199px;
+  height: 47px;
+}
+.engl,
+.england,
+.gla,
+.gla1 {
+  position: absolute;
+  line-height: 45px;
+  display: flex;
+  align-items: center;
+}
+.gla {
+  top: 2710px;
+  left: 371px;
+  font-size: var(--font-size-21xl);
+  font-weight: 500;
+  width: 64px;
+  height: 43px;
+}
+.engl,
+.gla1 {
+  top: 2663px;
+  left: 369px;
+  width: 65px;
+  height: 47px;
+}
+.gla1 {
+  top: 1777px;
+  left: 371px;
+  font-size: var(--font-size-21xl);
+  font-weight: 500;
+  width: 68px;
+  height: 43px;
+}
+.engl1 {
+  top: 1730px;
+  left: 369px;
+  width: 65px;
+  height: 47px;
+}
+.canada,
+.contact-us,
+.engl1,
+.england1,
+.glasgow1,
+.quebec,
+.services {
+  position: absolute;
+  line-height: 45px;
+  display: flex;
+  align-items: center;
+}
+.glasgow1 {
+  top: 1777px;
+  left: 71px;
+  font-size: var(--font-size-21xl);
+  font-weight: 500;
+  width: 183px;
+  height: 43px;
+}
+.canada,
+.contact-us,
+.england1,
+.quebec,
+.services {
+  left: 45px;
+  width: 273px;
+}
+.quebec {
+  top: 3348.5px;
+  font-size: var(--font-size-21xl);
+  font-weight: 500;
+  height: 43px;
+}
+.canada,
+.contact-us,
+.england1,
+.services {
+  top: 3301.5px;
+  height: 47px;
+}
+.contact-us,
+.england1,
+.services {
+  top: 1730px;
+  left: 69px;
+  width: 199px;
+}
+.contact-us,
+.services {
+  top: 4535.5px;
+  left: 24px;
+  color: var(--color-goldenrod);
+  width: 180px;
+}
+.contact-us {
+  top: 4957.5px;
+  left: 74px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-brandon-grotesque);
+  width: 190px;
+  height: 32px;
+}
+.seccion-mobile-realestate-hom-child10 {
+  position: absolute;
+  height: 0.32%;
+  width: 7.59%;
+  top: 72.78%;
+  right: 87.03%;
+  bottom: 26.9%;
+  left: 5.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.seccion-mobile-realestate-hom-child11 {
+  position: absolute;
+  top: 5515.5px;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 484px;
+  height: 304px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.art-curation1 {
+  font-weight: 500;
+}
+.span {
+  font-family: var(--font-pf-regal-display-pro);
+}
+.art-curation {
+  margin: 0;
+}
+.interior-design {
+  margin: 0;
+  font-weight: 500;
+}
+.art-curation-container {
+  position: absolute;
+  top: 4588.5px;
+  left: 24px;
+  font-size: var(--font-size-26xl);
+  line-height: 45px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 380px;
+  height: 87px;
+}
+.mask-group-icon6 {
+  position: absolute;
+  top: 5071.5px;
+  left: 24px;
+  width: 404px;
+  height: 404px;
+  object-fit: cover;
+}
+.in-an-ultimate-container2 {
+  position: absolute;
+  top: 4709.5px;
+  left: 24px;
+  line-height: 40px;
+  font-weight: 300;
+  font-family: var(--font-brandon-grotesque);
+  color: var(--color-black);
+  display: inline-block;
+  width: 380px;
+  height: 201px;
+}
+.vector-icon {
+  position: absolute;
+  top: 4437.8px;
+  left: 47px;
+  width: 381px;
+  height: 1.5px;
+}
+.seccion-mobile-realestate-hom-child12,
+.seccion-mobile-realestate-hom-child13,
+.seccion-mobile-realestate-hom-child14 {
+  position: absolute;
+  top: 5492.5px;
+  left: 150px;
+  background-color: var(--color-silver);
+  width: 31.3px;
+  height: 5px;
+}
+.seccion-mobile-realestate-hom-child13,
+.seccion-mobile-realestate-hom-child14 {
+  left: 246.3px;
+}
+.seccion-mobile-realestate-hom-child14 {
+  left: 197.3px;
+  background-color: var(--color-gainsboro);
+}
+.location,
+.name-property {
+  position: absolute;
+  left: 45px;
+  line-height: 45px;
+  display: flex;
+  align-items: center;
+  width: 273px;
+}
+.location {
+  top: 3793px;
+  font-size: var(--font-size-21xl);
+  font-weight: 500;
+  color: var(--color-black);
+  height: 43px;
+}
+.name-property {
+  top: 3746px;
+  font-size: var(--font-size-6xl);
+  color: #464547;
+  height: 47px;
+}
+.seccion-mobile-realestate-hom-child15 {
+  position: absolute;
+  top: 4401.6px;
+  left: 10px;
+  width: 77px;
+  height: 77.4px;
+}
+.seccion-mobile-realestate-hom-child16 {
+  position: absolute;
+  top: 5600.5px;
+  left: 24px;
+  background-color: var(--color-gray-100);
+  width: 380px;
+  height: 481px;
+}
+.join-the-list {
+  position: absolute;
+  top: 5640.5px;
+  left: 54px;
+  line-height: 45px;
+  color: var(--color-goldenrod);
+  display: flex;
+  align-items: center;
+  width: 180px;
+  height: 47px;
+}
+.unlock-the-exclusive-container {
+  position: absolute;
+  top: 5693.5px;
+  left: 54px;
+  font-size: var(--font-size-26xl);
+  line-height: 45px;
+  font-weight: 500;
+  display: inline-block;
+  width: 309px;
+  height: 149px;
+}
+.ex-namemailcom {
+  position: absolute;
+  top: 5924.5px;
+  left: 89px;
+  font-size: var(--font-size-xl);
+  line-height: 45px;
+  font-family: var(--font-brandon-grotesque);
+  color: var(--color-silver);
+  display: flex;
+  align-items: center;
+  width: 182px;
+  height: 19px;
+}
+.seccion-mobile-realestate-hom-child17 {
+  position: absolute;
+  top: 5964.5px;
+  left: 54px;
+  border-radius: var(--br-81xl);
+  border: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 60px;
+  height: 309px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.name,
+.submit {
+  position: absolute;
+  top: 5868.5px;
+  left: 54px;
+  font-size: var(--font-size-6xl);
+  line-height: 100px;
+  font-family: var(--font-brandon-grotesque);
+  display: flex;
+  align-items: center;
+  width: 131px;
+  height: 21px;
+}
+.submit {
+  top: 6004.5px;
+  left: 104px;
+  line-height: 45px;
+  color: var(--color-goldenrod);
+  width: 190px;
+  height: 32px;
+}
+.logo-icon,
+.seccion-mobile-realestate-hom-child18 {
+  position: absolute;
+  height: 0.32%;
+  width: 7.59%;
+  top: 88.17%;
+  right: 80.02%;
+  bottom: 11.51%;
+  left: 12.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.logo-icon {
+  height: 0.35%;
+  width: 62.15%;
+  top: 90.47%;
+  right: 32.71%;
+  bottom: 9.18%;
+  left: 5.14%;
+}
+.become-a-new-container {
+  position: absolute;
+  top: 6234.5px;
+  left: 22px;
+  font-size: var(--font-size-6xl);
+  line-height: 30px;
+  font-family: var(--font-brandon-grotesque);
+  display: inline-block;
+  width: 382px;
+  height: 78px;
+}
+.homes-apartaments-contact-container,
+.suites-cities-villas-container {
+  top: 6324.5px;
+  font-family: var(--font-brandon-grotesque);
+  color: var(--color-silver);
+  display: inline-block;
+  height: 137px;
+}
+.homes-apartaments-contact-container {
+  position: absolute;
+  left: 224px;
+  font-size: var(--font-size-6xl);
+  line-height: 45px;
+  width: 180px;
+}
+.suites-cities-villas-container {
+  width: 145px;
+}
+.call-center,
+.conciergeuniqluxurycom,
+.div,
+.suites-cities-villas-container {
+  position: absolute;
+  left: 22px;
+  line-height: 45px;
+}
+.conciergeuniqluxurycom {
+  top: 6625.5px;
+  font-family: var(--font-brandon-grotesque);
+  color: var(--color-silver);
+  display: inline-block;
+  width: 382px;
+  height: 47px;
+}
+.call-center,
+.div {
+  display: flex;
+  align-items: center;
+}
+.div {
+  top: 6550.5px;
+  font-size: var(--font-size-21xl);
+  font-weight: 500;
+  width: 382px;
+  height: 99px;
+}
+.call-center {
+  top: 6523.5px;
+  color: var(--color-silver);
+  width: 407px;
+  height: 47px;
+}
+.line-div {
+  position: absolute;
+  top: 6765.8px;
+  left: -0.7px;
+  border-top: 1.5px solid var(--color-white);
+  box-sizing: border-box;
+  width: 429.5px;
+  height: 1.5px;
+}
+.copyright-2022 {
+  position: absolute;
+  top: 6775.5px;
+  left: 109px;
+  font-size: var(--font-size-xl);
+  line-height: 45px;
+  display: flex;
+  font-family: var(--font-brandon-grotesque);
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 209px;
+  height: 37px;
+}
+.group-icon1,
+.group-icon2,
+.vector-icon1,
+.vector-icon2,
+.vector-icon3 {
+  position: absolute;
+  height: 0.29%;
+  width: 4.67%;
+  top: 98.43%;
+  right: 90.19%;
+  bottom: 1.28%;
+  left: 5.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon2,
+.vector-icon1,
+.vector-icon2,
+.vector-icon3 {
+  height: 0.28%;
+  width: 5.37%;
+  top: 98.45%;
+  right: 76.17%;
+  bottom: 1.27%;
+  left: 18.46%;
+}
+.group-icon2,
+.vector-icon2,
+.vector-icon3 {
+  height: 0.29%;
+  width: 4.67%;
+  top: 98.43%;
+  right: 51.82%;
+  bottom: 1.28%;
+  left: 43.5%;
+}
+.vector-icon2,
+.vector-icon3 {
+  height: 0.28%;
+  width: 2.34%;
+  top: 98.45%;
+  right: 65.19%;
+  bottom: 1.27%;
+  left: 32.48%;
+}
+.vector-icon3 {
+  height: 0.31%;
+  width: 4.67%;
+  top: 98.42%;
+  right: 38.08%;
+  left: 57.24%;
+}
+.mask-group-icon7 {
+  position: absolute;
+  top: 3888px;
+  left: 0;
+  width: 428px;
+  height: 428px;
+  object-fit: cover;
+}
+.barcelona,
+.spain {
+  position: absolute;
+  left: 34px;
+  line-height: 45px;
+  display: flex;
+  align-items: center;
+  width: 273px;
+}
+.barcelona {
+  top: 4237px;
+  font-size: var(--font-size-21xl);
+  font-weight: 500;
+  height: 43px;
+}
+.spain {
+  top: 4190px;
+  font-size: var(--font-size-6xl);
+  height: 47px;
+}
+.seccion-mobile-realestate-hom {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 6816px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-pf-regal-display-pro);
+}
